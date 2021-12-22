@@ -17,5 +17,6 @@
 <img src="https://media.vlpt.us/images/youngerjesus/post/4a09e691-a606-4c56-afe2-de78b9c757cd/redis3.png" width="45%" height="45%" alt="Redis image"></img>
 <img src="https://tecoble.techcourse.co.kr/static/44b6a8fdfaca6c78a3730cf7b17129d5/2422e/oauth.jpg" width="45%" height="45%" alt="Redis image"></img>
 ```
-Session을 Redis 서버에 저장하고 Oauth2 정책을 이용한 accessToken, refreshToken 사용.
+1. Session을 Redis 서버에 저장하고 Oauth2 정책을 이용한 accessToken, refreshToken 사용.
+2. redis 서버나 was를 올릴 서버는 로컬또는 docker를 사용.
 ```
